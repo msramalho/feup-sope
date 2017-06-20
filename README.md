@@ -7,6 +7,7 @@ Univeristy Subject - Operating Systems
 
 ## Interesting features First Part
 tool to mimick [find](https://linux.die.net/man/1/find)
+ - Signal and Signal Handling
  - Low level function calls
  - Multiprocesses
  - Command line arguments
