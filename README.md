@@ -9,7 +9,7 @@ Univeristy Subject - Operating Systems
 tool to mimick [find](https://linux.die.net/man/1/find)
  - Signal and Signal Handling
  - Low level function calls
- - Multiprocesses
+ - Multiprocessing
  - Command line arguments
 
 ## Interesting features Second Part
